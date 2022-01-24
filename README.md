@@ -26,7 +26,6 @@
 
 - 💬 Ask me about **Web development, Python**
 
-<br><br>
 - gmail: maxmudassir123@gmail.com
 
 

@@ -4,7 +4,7 @@
          
 <center>
     <div class="muddd">
-    <img src=" https://1.bp.blogspot.com/-cW4bVLiiyOw/X46T7MeWpAI/AAAAAAAAAFk/CLbOWy7gVUELkgV5PPrl76tN_KelZkXgQCLcBGAsYHQ/s320/IMG_20200510_160855_831.jpg " alt="
+    <img src="./mudassir.jpg " alt="
     ">
     </div>
     

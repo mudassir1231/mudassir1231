@@ -2,9 +2,9 @@
 **mudassir1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
         
-  
+<!--   
 <img align="center" style="border-radius: 200px;border: 2px solid #000;margin: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.9);width: 200px;" src="./mudassir.jpg ">
-<br>
+<br> -->
        
 <h1 align="center"> Hi there 👋 , I'm Mohammed Mudassir</h1><br>
 <h3 align="center">A passionate web developer</h3>

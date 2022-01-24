@@ -4,13 +4,13 @@
          
 <center>
     <div class="muddd">
-    <img src="./mudassir.jpg " alt="
+    <img style="border-radius: 200px;border: 2px solid #000;margin: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+width: 200px;" src="./mudassir.jpg " alt="
     ">
     </div>
 
 <style>
-.muddd img{border-radius: 200px;border: 2px solid #000;margin: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-width: 200px;}
+.muddd img{}
 </style>
     
     

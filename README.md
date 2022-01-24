@@ -7,6 +7,11 @@
     <img src="./mudassir.jpg " alt="
     ">
     </div>
+
+<style>
+.muddd img{border-radius: 200px;border: 2px solid #000;margin: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+width: 200px;}
+</style>
     
     
     
@@ -60,17 +65,3 @@
 
 <br/>
 
-
-<style>
-
-    h1{
-        opacity: 1
-    }
-.muddd img{
-    border-radius: 200px;
-    border: 2px solid #000;
-    margin: 10px;
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-width: 200px;
-}
-</style>

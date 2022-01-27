@@ -56,6 +56,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir1231&" alt="mudassir1231" /></p>
 
 <br/>
-
+<!-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir1231)](https://github.com/anuraghazra/github-readme-stats)
+ -->
